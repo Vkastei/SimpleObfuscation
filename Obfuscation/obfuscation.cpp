@@ -2,8 +2,6 @@
 #include <fstream>
 #include <vector>
 #include <algorithm>
-#define LIMITER "
-
 
 std::vector<std::string> newLines;
 std::vector<std::string> functions;
